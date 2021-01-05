@@ -1,1 +1,1 @@
-Off-policyIRL python implementation associate with the paper submitted to Neurocomputing
+Off-policyIRL python implementation of paper "Model-free Robust Adaptive Dynamic Programming Control for Nonlinear Systems using a Time Differential Utility Function"
